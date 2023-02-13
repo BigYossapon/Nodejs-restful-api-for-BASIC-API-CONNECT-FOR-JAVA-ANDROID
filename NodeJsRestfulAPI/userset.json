@@ -1,0 +1,35 @@
+{
+    "users" : [
+        {
+            "name" : "athit",
+            "passwaord" : "password1",
+            "occupation" : "teacher",
+            "id" : 1
+        },
+        {
+            "name" : "athit",
+            "passwaord" : "password1",
+            "occupation" : "teacher",
+            "id" : 2
+        },
+        {
+            "name" : "athit",
+            "passwaord" : "password1",
+            "occupation" : "teacher",
+            "id" : 3
+        },
+        {
+            "name" : "athit",
+            "passwaord" : "password1",
+            "occupation" : "teacher",
+            "id" : 4
+        },
+        {
+            "name" : "athit",
+            "passwaord" : "password1",
+            "occupation" : "teacher",
+            "id" : 5
+        }
+        
+    ]
+}
